@@ -62,10 +62,9 @@ Built using **advanced machine learning (LSTM neural networks)**, the system pro
 
 ## 🧩 How It Works
 
-1. Analyzes historical Aviator crash multipliers  
-2. Trains an **LSTM neural network** on detected patterns  
-3. Processes real-time game signals  
-4. Outputs **probabilistic multiplier predictions**
+1. Trains an **LSTM neural network** on detected patterns  
+2. Processes real-time game signals  
+3. Outputs **RAEL multiplier predictions**
 
 ---
 
@@ -83,12 +82,11 @@ Built using **advanced machine learning (LSTM neural networks)**, the system pro
 
 ## ⚠️ Disclaimer
 
-- This project **does not guarantee wins**  
+
 - Aviator is a **random crash game**  
 - Predictions are **probabilistic, not certain**  
 - Use responsibly and at your own risk  
 
-This software is provided strictly for **educational and research purposes**.
 
 ---
 
@@ -96,15 +94,16 @@ This software is provided strictly for **educational and research purposes**.
 
 Report issues responsibly via GitHub:
 
-https://github.com/TA-wiah/aviator-predictor/issues
+https://github.com/stakeminespredictor/aviator_predictor2026
 
 ---
 
 ## 👨‍💻 Author
 
-- GitHub: **@TA-wiah**  
+- GitHub: **@aviator**  
 - Website: https://aviatorpredictor.org  
 
 ---
+
 
 ### ✈️ The plane always takes off — knowing when it might fall is the real edge.
